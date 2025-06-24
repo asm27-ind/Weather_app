@@ -71,17 +71,6 @@ You can get your free API key from [https://openweathermap.org/api](https://open
 
 Just open `index.html` in any browser and start using it!
 
-## 📸 Screenshots
-
-![weather app screenshot](images/screenshot.png)  
-*Example UI when a city is searched.*
-
-## 🛠️ Improvements to Add
-
-- Error handling for empty input
-- Loading animation while fetching data
-- Add weather descriptions and feels-like temperature
-- Support for geolocation-based weather fetch
 
 ## 🧑‍💻 Author
 
